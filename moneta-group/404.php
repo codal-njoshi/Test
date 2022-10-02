@@ -7,7 +7,7 @@
  * @package _s
  */
 
-// 
+
 
 
 get_header();
